@@ -1,6 +1,6 @@
 // Copyright 2021 Novozhilova Ekaterina
-#ifndef MODULES_TASK_3_NOVOZHILOVA_E_LABELING_LABELING_H_
-#define MODULES_TASK_3_NOVOZHILOVA_E_LABELING_LABELING_H_
+#ifndef MODULES_TASK_3_KURGUZIKOV_K_LABELING_LABELING_H_
+#define MODULES_TASK_3_KURGUZIKOV_K_LABELING_LABELING_H_
 
 #include <vector>
 #include <algorithm>
@@ -14,4 +14,4 @@ int rows, int cols);
 std::vector<std::vector<int>> ParLabeling(std::vector<std::vector<int>> arr,
 int rows, int cols);
 
-#endif  // MODULES_TASK_3_NOVOZHILOVA_E_LABELING_LABELING_H_
+#endif  // MODULES_TASK_3_KURGUZIKOV_K_LABELING_LABELING_H_

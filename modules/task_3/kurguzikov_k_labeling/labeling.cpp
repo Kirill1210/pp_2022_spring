@@ -6,7 +6,7 @@
 #include <random>
 #include <iostream>
 #include <cmath>
-#include "../../../modules/task_3/novozhilova_e_labeling/labeling.h"
+#include "../../../modules/task_3/kurguzikov_k_labeling/labeling.h"
 
 int check_for_par(std::vector<std::vector<int>> lab, int rows, int cols) {
     bool equality = true;
