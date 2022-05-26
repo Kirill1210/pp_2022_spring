@@ -1,4 +1,5 @@
 ﻿  //  Copyright 2022 Kurguzikov Kirill
+
 #define NOMINMAX
 #include <tbb/tbb.h>
 #include <vector>
@@ -7,6 +8,7 @@
 #include <iostream>
 #include <cmath>
 #include "../../../modules/task_3/kurguzikov_k_labeling/labeling.h"
+
 
 int check_for_par(std::vector<std::vector<int>> lab, int rows, int cols) {
     bool equality = true;
